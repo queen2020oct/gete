@@ -1,5 +1,5 @@
 proxies:
-  - {name: 🏳️‍🌈 香港原生1(最新更新时间1月14日), server: 199.15.79.135, port: 42352, type: vmess, uuid: 4bd73959-76be-4b3a-ad64-60365c2c41a5, alterId: 0,
+  - {name: 🏳️‍🌈 香港原生1, server: 199.15.79.135, port: 42352, type: vmess, uuid: 4bd73959-76be-4b3a-ad64-60365c2c41a5, alterId: 0,
 cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 香港BGP-负载均衡主线, server: hk.llzzff.xyz, port: 61141, type: trojan, password: e1a0774e-1281-473c-
 a847-a312728c48f5, sni: hk.llzzff.xyz, skip-cert-verify: false}
